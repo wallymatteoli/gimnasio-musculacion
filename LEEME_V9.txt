@@ -1,0 +1,5 @@
+GIMNASIO V9 — diseño de entrenamiento estilo Hevy
+
+Mejoras: entrenamiento a pantalla completa en celular, modal más amplio en computadora, botón X visible y controles de series más grandes. Conserva lógica y datos locales de V8/V7.
+
+Descomprimir todo el ZIP y abrir index.html. Sigue siendo DEMO LOCAL sin usuarios seguros ni sincronización. No cargar datos privados reales.

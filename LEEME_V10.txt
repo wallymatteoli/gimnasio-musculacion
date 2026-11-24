@@ -1,0 +1,9 @@
+GIMNASIO V10 - Prueba local
+
+Al editar una rutina, cada ejercicio tiene el selector de tipo de registro: peso+repeticiones, solo repeticiones, tiempo (segundos), peso+tiempo. El tipo pertenece a la rutina, no a la biblioteca.
+
+En entrenamiento se muestran solo los campos relevantes. Se guardan los tipos junto a cada serie finalizada, y el volumen cuenta únicamente las series de peso+repeticiones.
+
+Descomprimí y abrí index.html. Usar solo datos ficticios: no hay autenticación ni sincronización entre dispositivos.
+
+V10.2: gráficos de líneas o barras, ancho adaptable y métrica automática. Los gráficos y récords usan sesiones finalizadas.

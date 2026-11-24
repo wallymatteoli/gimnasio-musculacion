@@ -1,0 +1,6 @@
+VERSIÓN 7 - DEMO LOCAL
+Abrir index.html desde la carpeta extraída.
+ANTES DE ACTUALIZAR: exportar respaldo JSON desde la versión 6.
+Los datos de esta versión siguen en localStorage de este navegador/origen; abrir desde otra carpeta puede cambiar el origen. Importar respaldo si es necesario.
+Cambios: buscadores en Rutinas y Biblioteca, coincidencias visibles, nombres similares, edición/eliminación de biblioteca, guardado automático local de borrador, referencia anterior, volumen en vivo, seguimiento detallado y gráfico por sesión.
+Límites: sin OCR/IA de fotos, sin nube, sin cuentas reales, sin sincronización y sin integración de molinete.

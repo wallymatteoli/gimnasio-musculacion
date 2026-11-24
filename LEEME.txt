@@ -1,0 +1,20 @@
+GIMNASIO MUSCULACIÓN — VERSIÓN 6 (DEMO LOCAL)
+
+1. ANTES DE ABRIR: desde la versión anterior, Administración > Exportar respaldo JSON.
+2. Extraer TODO el ZIP a una carpeta fija (NO abrir desde WinRAR).
+3. Abrir index.html con Chrome. Si el navegador cambia de ubicación, los datos locales pueden no aparecer: importar el JSON desde Administración.
+
+NOVEDADES
+- Editor de rutinas en 3 bloques plegables: entrada en calor, ejercicios principales y finales.
+- Biblioteca local de ejercicios con búsqueda, alta manual y detección de nombre duplicado.
+- Conserva foto original comprimida y permite cargar/revisar ejercicios manualmente.
+- Registro local de series realizadas, kg, repeticiones, volumen y seguimiento de entrenamientos.
+- Precios vigentes en ficha; cambios de plan programados desde el mes siguiente.
+- Selector de cuotas con meses futuros y generación sin duplicar; alerta de límite semanal sin permitir sobrepasarlo desde la demo.
+
+LIMITACIONES IMPORTANTES
+- No hay extracción automática por IA de las fotos: necesita servicio externo.
+- No hay login real, permisos seguros, sincronización en la nube, acceso remoto desde el celular ni conexión con molinete QR.
+- No se permite autorizar excepciones de asistencia en esta demo sin autenticación real.
+- Los datos de demostración históricos conservan sus montos y vencimientos originales; no se reescriben pagos antiguos.
+- Las rutinas y entrenamientos de prueba se guardan únicamente en el navegador local.
